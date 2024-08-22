@@ -570,6 +570,10 @@ h1, h2, h3, h4, h5,
           padding-left: 15px !important; }
 
 /* Blocks */
+#section-our-team .person {
+  text-align: center;
+}
+
 .site-blocks-cover {
   background-size: cover;
   background-repeat: no-repeat;
