@@ -220,8 +220,8 @@ h1, h2, h3, h4, h5,
   width: 90px;
   height: 90px;
   display: inline-block;
-  border: 2px solid #fff;
-  color: #fff !important;
+  border: 2px solid #aa9203;
+  color: #aa9203 !important;
   border-radius: 50%;
   position: relative;
   -webkit-transition: .3s all ease-in-out;
@@ -421,7 +421,7 @@ h1, h2, h3, h4, h5,
       -o-transition: .3s all ease-out;
       transition: .3s all ease-out; }
     .site-navbar.scrolled .site-menu-toggle {
-      color: #000; }
+      color: rgb(170 146 3); }
     .site-navbar.scrolled .site-navigation .site-menu li a {
       color: #000; }
       .site-navbar.scrolled .site-navigation .site-menu li a.active {
